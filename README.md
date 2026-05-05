@@ -1,5 +1,3 @@
-```shell
-
 # Productivity
 winget install -e --id Notepad++.Notepad++;
 winget install -e --id M2Team.NanaZip;
@@ -44,6 +42,10 @@ winget install -e --id Discord.Discord;
 winget install -e --id NexusMods.Vortex;
 winget install -e --id AnyDeskSoftwareGmbH.AnyDesk;
 winget install -e --id Stremio.Stremio;
-winget install -e --id Playnite.Playnite
+winget install -e --id Playnite.Playnite;
+winget install -e --id Valve.Steam
 
-```
+# Misc
+# Equalizer APO + Peace
+# Winaero Tweaker
+# GIMP
