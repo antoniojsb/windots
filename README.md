@@ -52,8 +52,5 @@ winget install -e --id Valve.Steam
 ```
 
 # Misc
-```shell
-Equalizer APO + Peace
-Winaero Tweaker
-GIMP
-```
+[Equalizer APO](https://sourceforge.net/projects/equalizerapo/) + [Peace]https://sourceforge.net/projects/peace-equalizer-apo-extension/)
+[Winaero Tweaker](https://winaerotweaker.com/)
